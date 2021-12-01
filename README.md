@@ -22,8 +22,8 @@ My name is Ziv and I'm a developer, student.
 + ⚡ Some fun facts:
 
   * Curious but pragmatic 🦝.
-  * I enjoy flashing Android ROMs & mods.
-  * I like listening to music.
+  * I enjoy listening to music.
+  * I like to flash Android ROMs & mods.
   * When not coding I usually play video games or reading books.
   
 + 📫 How to reach me:
@@ -32,4 +32,4 @@ My name is Ziv and I'm a developer, student.
   
   Feel free to ask me about everything.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ZivSimchoni&theme=dracula&count_private=true&hide_border=true&line_height=20)](https://github.com/ZivSimchoni)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ZivSimchoni&show_icons=true&icon_color=e9a000&theme=vision-friendly-dark&count_private=true&hide_border=true&line_height=20))](https://github.com/ZivSimchoni)
