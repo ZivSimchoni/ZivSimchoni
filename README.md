@@ -22,8 +22,8 @@ My name is Ziv and I'm a developer, student.
 + ⚡ Some fun facts:
 
   * Curious but pragmatic 🦝.
-  * I like listing to music.
-  * I like to flash Android ROMs & mods.
+  * I enjoy flashing Android ROMs & mods.
+  * I like listening to music.
   * When not coding I usually play video games or reading books.
   
 + 📫 How to reach me:
