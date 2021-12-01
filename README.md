@@ -32,4 +32,4 @@ My name is Ziv and I'm a developer, student.
   
   Feel free to ask me about everything.
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=ZivSimchoni&show_icons=true&icon_color=e9a000&theme=vision-friendly-dark&count_private=true&hide_border=true&line_height=20))](https://github.com/ZivSimchoni)
+[![Github stats](https://github-readme-stats.vercel.app/api?username=ZivSimchoni&show_icons=true&theme=github_dark&count_private=true&hide_border=true&line_height=20)](https://github.com/ZivSimchoni)
