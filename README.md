@@ -21,10 +21,10 @@ My name is Ziv and I'm a developer, student.
 
 + ⚡ Some fun facts:
 
-  * I like listing to music.
-  * When not coding I usually play video games or reading books.
-  * I like to flash Android ROMs & mods.
   * Curious but pragmatic 🦝.
+  * I like listing to music.
+  * I like to flash Android ROMs & mods.
+  * When not coding I usually play video games or reading books.
   
 + 📫 How to reach me:
 
