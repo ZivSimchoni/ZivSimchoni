@@ -28,7 +28,7 @@ My name is Ziv and I'm a developer, student.
   
 + 📫 How to reach me:
 
-  Email: ZivS@tuta.io or ZivSi@pm.me
+  Email: ZivSi@pm.me
   
   Feel free to ask me about everything.
 
