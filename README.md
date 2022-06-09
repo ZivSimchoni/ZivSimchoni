@@ -28,7 +28,7 @@ My name is Ziv and I'm a developer, student.
   
 + 📫 How to reach me:
 
-  Email: ZivSi@pm.me
+  Email: ZivSimchoni@gmail.com
   
   Feel free to ask me about everything.
 
