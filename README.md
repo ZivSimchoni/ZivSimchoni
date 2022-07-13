@@ -6,7 +6,7 @@ My name is Ziv and I'm a developer, student.
 
   * "Knowledge is power!"
 
-+ 🌱 I’m currently learning:
++ 🌱 Currently learning:
 
   * Python, ML.
 
@@ -17,7 +17,7 @@ My name is Ziv and I'm a developer, student.
 
 + 🔭🥅 Following year goals:
 
-  * Contribute more to Open Source projects.
+  * Contribute to open source projects.
 
 + ⚡ Some fun facts:
 
