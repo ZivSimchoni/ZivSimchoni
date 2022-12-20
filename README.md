@@ -1,14 +1,15 @@
 ### Hi there! 👋🏽
 
-My name is Ziv and I'm a developer, student.
+My name is Ziv. I'm a developer and student.
 
-+ 💬 Moto:
++ 💬 Motto:
 
   * "Knowledge is power!"
 
 + 🌱 Currently learning:
 
   * Python, ML.
+  * Android App Development using Kotlin.
 
 + 🔍 Specifically interested in:
 
@@ -17,14 +18,14 @@ My name is Ziv and I'm a developer, student.
 
 + 🔭🥅 Following year goals:
 
-  * Contribute to open source projects.
+  * Contribute to open-source projects.
 
 + ⚡ Some fun facts:
 
   * Curious but pragmatic 🦝.
   * I enjoy listening to music.
   * I like to flash Android ROMs & mods.
-  * When not coding I usually play video games or reading books.
+  * When not programming, I usually play video games or read books.
   
 + 📫 How to reach me:
 
