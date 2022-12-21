@@ -2,35 +2,35 @@
 
 My name is Ziv. I'm a developer and student.
 
-+ 💬 Motto:
+-   💬 Motto:
 
-  * "Knowledge is power!"
+    -   "Knowledge is power!"
 
-+ 🌱 Currently learning:
+-   🌱 Currently learning:
 
-  * Python, ML.
-  * Android App Development using Kotlin.
+    -   Python, ML.
+    -   Android App Development using Kotlin.
 
-+ 🔍 Specifically interested in:
+-   🔍 Specifically interested in:
 
-  * FOSS development.
-  * Privacy respecting apps and services.
+    -   FOSS development.
+    -   Privacy respecting apps and services.
 
-+ 🔭🥅 Following year goals:
+-   🔭🥅 Following year goals:
 
-  * Contribute to open-source projects.
+    -   Contribute to open-source projects.
 
-+ ⚡ Some fun facts:
+-   ⚡ Some fun facts:
 
-  * Curious but pragmatic 🦝.
-  * I enjoy listening to music.
-  * I like to flash Android ROMs & mods.
-  * When not programming, I usually play video games or read books.
-  
-+ 📫 How to reach me:
+    -   Curious but pragmatic 🦝.
+    -   I enjoy listening to music.
+    -   I like to flash Android ROMs & mods.
+    -   When not programming, I usually play video games or read books.
 
-  Email: ZivSimchoni@gmail.com
-  
-  Feel free to ask me about everything.
+-   📫 How to reach me:
+
+    Email: ZivSimchoni@gmail.com
+
+    Feel free to ask me about everything.
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=ZivSimchoni&show_icons=true&theme=github_dark&count_private=true&hide_border=true&line_height=20)](https://github.com/ZivSimchoni)
