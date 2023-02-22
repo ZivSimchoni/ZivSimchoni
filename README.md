@@ -19,6 +19,7 @@ My name is Ziv. I'm a developer and student.
 -   🔭🥅 Following year goals:
 
     -   Contribute to open-source projects.
+    -   Remake my Wiki/Blog.
 
 -   ⚡ Some fun facts:
 
