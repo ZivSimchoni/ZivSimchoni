@@ -9,7 +9,6 @@ My name is Ziv. I'm a developer.
 -   🌱 Currently learning:
 
     -   Python.
-    -   C# (WinUi3).
 
 -   🔍 Specifically interested in:
 
@@ -19,7 +18,7 @@ My name is Ziv. I'm a developer.
 -   🔭🥅 Following year goals:
 
     -   Contribute to open-source projects.
-    -   Remake my Wiki/Blog.
+    -   Keep updating my Wiki/Blog.
 
 -   ⚡ Some fun facts:
 
