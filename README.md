@@ -1,6 +1,6 @@
 ### Hi there! 👋🏽
 
-My name is Ziv. I'm a developer and student.
+My name is Ziv. I'm a developer.
 
 -   💬 Motto:
 
@@ -8,8 +8,8 @@ My name is Ziv. I'm a developer and student.
 
 -   🌱 Currently learning:
 
-    -   Python, ML.
-    -   Android App Development using Kotlin.
+    -   Python.
+    -   C# (WinUi3).
 
 -   🔍 Specifically interested in:
 
