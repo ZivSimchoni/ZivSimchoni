@@ -8,6 +8,7 @@ My name is Ziv. I'm a developer.
 
 -   🌱 Currently learning:
 
+    -   Go.
     -   Python.
 
 -   🔍 Specifically interested in:
