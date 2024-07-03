@@ -8,8 +8,8 @@ My name is Ziv. I'm a developer.
 
 -   🌱 Currently learning:
 
-    -   DevOps tools.
-    -   Python.
+    -   DevOps tools (e.g. Docker).
+    -   Product managment.
 
 -   🔍 Specifically interested in:
 
